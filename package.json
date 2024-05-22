@@ -1,0 +1,18 @@
+{
+  "name": "d3v4forcetutorial",
+  "version": "1.0.0",
+  "description": "A step by step tutorial on how to use the d3 v4 forceSimulation system, to create network visualizations using canvas.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1"
+  }
+}
